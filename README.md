@@ -1,0 +1,4 @@
+- https://raw.githubusercontent.com/synpixel/catppuccin-better-discord-shiki/main/mocha.json
+- https://raw.githubusercontent.com/synpixel/catppuccin-better-discord-shiki/main/macchiato.json
+- https://raw.githubusercontent.com/synpixel/catppuccin-better-discord-shiki/main/frappe.json
+- https://raw.githubusercontent.com/synpixel/catppuccin-better-discord-shiki/main/latte.json
